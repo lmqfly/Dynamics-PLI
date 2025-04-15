@@ -5,7 +5,7 @@ Official PyTorch-based implementation in the paper [Molecular dynamics-powered h
 
 # Reference
 
-If you use CGIP in scholary publications, presentations or to communicate with your satellite, please cite the following work that presents the algorithms used:
+If you use Dynamics-PLI in scholary publications, presentations or to communicate with your satellite, please cite the following work that presents the algorithms used:
 ```bib
 @ARTICLE{10955744,
   author={Liu, Mingquan and Jin, Shuting and Lai, Houtim and Wang, Longyue and Wang, Jianmin and Cheng, Zhixiang and Zeng, Xiangxiang},
